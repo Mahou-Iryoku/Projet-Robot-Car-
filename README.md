@@ -3,16 +3,16 @@
 _A l’occasion de ce projet, j’ai continué ce projet que j’ai effectué l’année dernière pour améliorer les différentes fonctionnalités du robot._
 En effet, l’objectif est de piloter le robot sans besoin d’interaction humaine grâce à un capteur d’ultrason et d’utiliser une caméra pour effectuer de la reconnaissance d’objet. Ce robot va permet de détecter les différents objets s’il est réellement dangereux pour intervenir dans la surveillance ou dans la sécurité routière par exemple.
 
-__Le robot est composé finalement :
-4 moteurs à courant continu fixé à 4 roues
-4 modules à relais sur 5V
-Deux plaques pour fixer les composants électroniques
-Un Raspberry Pi 4 modèle B
-Une batterie 5V/4A + une pile d’alimentation  
-Un régulateur de tension contenant à un condensateur de découplage et d’un interrupteur électronique.
-Un module d’une caméra du type NOIR v2
-Un Micro SD 
-Un capteur d’ultrason du type HC-SR04__
+_Le robot est composé finalement :_
+_4 moteurs à courant continu fixé à 4 roues_
+_4 modules à relais sur 5V_
+_Deux plaques pour fixer les composants électroniques_
+_Un Raspberry Pi 4 modèle B_
+_Une batterie 5V/4A + une pile d’alimentation_  
+_Un régulateur de tension contenant à un condensateur de découplage et d’un interrupteur électronique._
+_Un module d’une caméra du type NOIR v2_
+_Un Micro SD_ 
+_Un capteur d’ultrason du type HC-SR04_
 
 __Dans notre Raspberry Pi, j’ai utilisé dans une machine Linux (système d’exploitation Raspbian)  qui va connecter à distance en réseau local l’environnement du bureau grâce au logiciel VNC Server.__ 
 
