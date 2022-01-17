@@ -23,7 +23,7 @@ _Le robot est composé finalement 🇦🇽
 
 -Un capteur d’ultrason du type HC-SR04
 
-![Robot_Car](https://user-images.githubusercontent.com/73304946/149759530-ee5c8604-779d-4be3-9715-8a086f34826e.jpg width="200" height="400" )
+![Robot_Car](https://user-images.githubusercontent.com/73304946/149759530-ee5c8604-779d-4be3-9715-8a086f34826e.jpg | width=200 | height=400)
 
 
 __Dans notre Raspberry Pi, j’ai utilisé dans une machine Linux (système d’exploitation Raspbian)  qui va connecter à distance en réseau local l’environnement du bureau grâce au logiciel VNC Server.__ 
