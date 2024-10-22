@@ -47,9 +47,9 @@ Nous avons utilisé notre Raspberry pour implémenter notre module de caméra po
 reconnaissance d’objet. Il faudrait utiliser la librairie de OpenCV pour gérer des calculs de
 traitement d’images.
 Notre projet de reconnaissance d’objet contient trois fichiers :
--Le programme python appelé : reconnaissance_objets.py représente notre algorithme qui effectuera la classification des images et la détection des objets.
--Le fichier MobileNetSSD_deploy.caffemodel contenant la liste des 21 types d’objets
--Le fichier de configuration : MobileNetSSD_deploy.prototxt qui servira à déployer les données dans le MobileNetSSD
+- Le programme python appelé : reconnaissance_objets.py représente notre algorithme qui effectuera la classification des images et la détection des objets.
+- Le fichier MobileNetSSD_deploy.caffemodel contenant la liste des 21 types d’objets
+- Le fichier de configuration : MobileNetSSD_deploy.prototxt qui servira à déployer les données dans le MobileNetSSD
 
 L’image qui a réussi à prédire la bouteille 
 
