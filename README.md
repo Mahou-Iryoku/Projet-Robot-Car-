@@ -37,7 +37,7 @@ Dans l’algorithme défini ci-dessous, pour que le robot soit capable de rencon
 
 <img src="Algorithme.jpg"/>
 
-#Détection de l’objet : Single Shot Multibox Detector
+# Détection de l’objet : Single Shot Multibox Detector
 
 Le Single Shot Multibox detector est un Framework qui va permettre d’effectuer la détection d’objet en détectant plusieurs objets dans un seul image. Il est basé par un réseau convolutif pour produire une collection de taille fixe de cadres de délimitions et de scores pour la présence d’instances de classe d’objets dans ces cadres.
 
